@@ -1,0 +1,1 @@
+# algo-lab7-knuth-morris-pratt
